@@ -1,4 +1,4 @@
-# Admissions-Calculator
+# Admissions Algorithm
 ### [ ... ] In Progress . . .
 ### [ ! ] For this tool to Work Properly, Please COPY and PASTE from the Available Universities File.
 
